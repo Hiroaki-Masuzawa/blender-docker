@@ -1,0 +1,2 @@
+userdir/*
+!userdir/export_fbx2dae.py
